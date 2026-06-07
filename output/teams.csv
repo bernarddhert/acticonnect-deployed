@@ -1,0 +1,193 @@
+team_id,organisatie_id,team_naam,sport_id,aanvoerder_id,aangemaakt_op,is_openbaar,max_leden
+1,1,Team Krachttraining Warriors,21,97,2026-03-18,1,20
+2,1,The Hockey Force,14,161,2026-02-07,1,15
+3,1,Volleybal Champions,12,64,2026-02-24,1,30
+4,1,Zwemmen Eagles,10,168,2025-11-12,0,25
+5,1,The Hockey United,14,150,2026-01-09,1,30
+6,1,Squad Bootcamp Thunder,20,194,2025-11-15,1,30
+7,1,Team Bootcamp Allstars,20,160,2025-12-07,1,35
+8,1,Bootcamp Champions,20,191,2026-04-15,1,35
+9,1,The Badminton United,5,157,2025-12-09,1,15
+10,1,The Pilates Crew,17,174,2026-04-13,1,35
+11,1,Squad Badminton Allstars,5,44,2026-01-24,1,30
+12,1,Team Mindful Wandelen Eagles,18,11,2026-02-19,1,30
+13,1,The Tafeltennis Warriors,4,108,2025-11-23,1,30
+14,1,Wielrennen Crew,8,33,2026-02-21,1,30
+15,1,Team Padel Thunder,1,37,2026-03-04,0,35
+16,1,Spinning Strikers,9,48,2026-03-20,1,15
+17,1,The Spinning Allstars,9,145,2026-02-03,1,15
+18,1,Squad Zwemmen Crew,10,155,2026-01-26,0,25
+19,1,Hardlopen Allstars,6,150,2026-02-12,1,15
+20,1,Voetbal Strikers,11,140,2026-04-04,1,35
+21,1,Squad Tennis Thunder,2,177,2026-04-14,1,25
+22,1,The Boksen Force,22,85,2025-11-10,1,15
+23,1,Padel Wolves,1,128,2026-04-12,1,25
+24,1,Team Klimmen Eagles,23,128,2026-04-19,1,15
+25,1,Squad Yoga Champions,16,204,2026-01-29,1,30
+26,1,Hockey Thunder,14,37,2026-03-28,1,20
+27,1,Squash Warriors,3,81,2026-01-12,1,35
+28,1,The Basketbal Riders,13,75,2026-04-07,0,30
+29,1,Team Spinning United,9,25,2026-01-01,1,20
+30,1,The Ultimate Frisbee Lightning,15,148,2025-12-10,1,25
+31,1,Voetbal Force,11,112,2025-11-19,1,35
+32,1,Squad CrossFit Thunder,19,156,2025-12-10,1,30
+33,2,Ultimate Frisbee United,15,384,2026-01-10,1,15
+34,2,The Ultimate Frisbee Riders,15,230,2025-11-16,1,35
+35,2,Squad Pilates Crew,17,594,2026-01-30,1,35
+36,2,The Basketbal Force,13,289,2026-04-19,1,15
+37,2,Team Krachttraining Allstars,21,400,2025-11-12,1,35
+38,2,Hockey Force,14,275,2026-02-20,1,25
+39,2,Spinning Thunder,9,221,2026-02-26,0,15
+40,2,Squad Hockey Champions,14,272,2026-02-07,1,30
+41,2,Squad Hardlopen Wolves,6,238,2026-04-15,1,35
+42,2,Squad Squash Force,3,571,2025-11-27,1,15
+43,2,Team Mindful Wandelen Allstars,18,528,2026-01-24,1,25
+44,2,Ultimate Frisbee United,15,377,2025-11-12,1,20
+45,2,Squad Wandelen Lightning,7,473,2026-03-18,1,25
+46,2,Team Pilates Lightning,17,433,2025-11-05,1,30
+47,2,Squad Squash Crew,3,430,2026-01-29,0,35
+48,2,Team Spinning Lightning,9,397,2025-12-23,1,20
+49,2,Team Padel Thunder,1,579,2026-03-13,1,20
+50,2,Team CrossFit Thunder,19,461,2025-11-25,0,20
+51,2,Mindful Wandelen Crew,18,257,2026-04-18,0,30
+52,2,Bootcamp Lightning,20,383,2025-11-21,0,15
+53,2,Team Squash Warriors,3,279,2026-01-09,1,35
+54,2,Hardlopen Riders,6,241,2026-01-01,0,15
+55,2,Pilates Strikers,17,315,2026-03-19,1,15
+56,2,Voetbal Crew,11,313,2026-04-11,0,35
+57,2,Voetbal Thunder,11,242,2025-12-12,1,25
+58,2,The Voetbal Allstars,11,348,2026-01-12,1,35
+59,2,Yoga Force,16,430,2026-04-07,1,35
+60,2,Team CrossFit Eagles,19,240,2025-12-29,0,35
+61,3,Squad Tafeltennis Strikers,4,853,2025-11-07,1,25
+62,3,Klimmen United,23,884,2025-12-26,1,25
+63,3,Team Squash Eagles,3,856,2025-11-13,0,35
+64,3,Team CrossFit Allstars,19,859,2026-01-24,1,25
+65,3,Hardlopen Allstars,6,699,2025-12-17,1,25
+66,3,Wandelen Champions,7,795,2026-01-23,0,30
+67,3,Team Klimmen Crew,23,832,2025-11-14,1,35
+68,3,Yoga Eagles,16,661,2025-12-04,1,35
+69,3,Team Hardlopen Riders,6,863,2025-11-22,0,25
+70,3,Zwemmen Warriors,10,841,2026-04-07,1,30
+71,3,Team Bootcamp Eagles,20,888,2026-01-26,0,20
+72,3,Squad Basketbal Lightning,13,621,2026-04-08,0,35
+73,3,Team Badminton Riders,5,753,2025-12-05,1,20
+74,3,The CrossFit United,19,917,2026-03-26,1,15
+75,3,Team Badminton Thunder,5,744,2025-12-09,1,25
+76,3,Mindful Wandelen Riders,18,722,2025-11-28,1,25
+77,3,CrossFit Force,19,813,2026-03-10,1,20
+78,3,Squad Hockey Allstars,14,824,2026-01-22,0,25
+79,3,Team Padel Force,1,757,2026-01-13,1,15
+80,3,Team Zwemmen Riders,10,726,2026-01-19,1,30
+81,3,Team Spinning Eagles,9,758,2025-11-13,1,25
+82,3,Squad Mindful Wandelen Wolves,18,617,2026-01-05,1,35
+83,3,Team Volleybal Crew,12,726,2026-03-20,0,30
+84,3,Squad Krachttraining Riders,21,675,2026-03-27,1,25
+85,3,Team Mindful Wandelen Force,18,892,2026-04-12,1,25
+86,3,Squad Hardlopen United,6,635,2026-01-31,1,35
+87,3,Voetbal Crew,11,812,2026-02-13,1,20
+88,4,The Zwemmen Champions,10,961,2025-11-30,0,25
+89,4,The Wandelen Thunder,7,947,2026-01-11,1,15
+90,4,Wielrennen Eagles,8,1025,2025-11-29,1,35
+91,4,Pilates Force,17,1019,2026-01-21,1,25
+92,4,Tennis Force,2,968,2025-12-08,1,30
+93,4,Squad Tennis Force,2,981,2026-01-26,0,35
+94,4,Pilates Thunder,17,969,2026-01-27,1,20
+95,4,Team Klimmen United,23,990,2025-12-16,1,20
+96,4,The Krachttraining Warriors,21,998,2026-03-19,1,20
+97,4,Squad Yoga Riders,16,1019,2026-01-31,0,25
+98,4,Team Pilates United,17,993,2026-01-21,1,35
+99,4,Team Basketbal Crew,13,947,2026-01-17,1,15
+100,4,Team Boksen Champions,22,941,2026-01-05,1,15
+101,5,Yoga Lightning,16,1119,2026-04-06,1,20
+102,5,The Krachttraining Eagles,21,1108,2025-11-27,1,25
+103,5,Team Badminton Riders,5,1143,2026-01-10,0,30
+104,5,Team Voetbal Crew,11,1154,2026-01-13,1,30
+105,5,Krachttraining Riders,21,1037,2025-12-05,0,15
+106,5,Team Bootcamp Crew,20,1098,2026-01-28,1,35
+107,5,Squad Bootcamp Eagles,20,1189,2025-12-28,1,25
+108,5,Squad Boksen Eagles,22,1077,2026-01-18,1,30
+109,5,The Wandelen Strikers,7,1249,2026-03-31,0,35
+110,5,The Basketbal Eagles,13,1154,2026-01-07,1,25
+111,5,The Basketbal Champions,13,1061,2025-11-30,0,35
+112,5,Squad Squash Eagles,3,1233,2026-02-20,1,15
+113,5,Squash Riders,3,1071,2025-12-07,1,25
+114,5,Krachttraining Strikers,21,1222,2026-01-01,1,35
+115,5,Team Padel Champions,1,1085,2026-03-09,1,30
+116,6,Tennis Wolves,2,1321,2025-11-22,1,25
+117,6,Team Ultimate Frisbee Champions,15,1401,2026-03-29,1,20
+118,6,Pilates Riders,17,1414,2025-12-01,1,15
+119,6,Pilates Strikers,17,1337,2026-02-08,0,30
+120,6,The Tafeltennis Thunder,4,1331,2026-01-01,1,15
+121,6,Padel Riders,1,1419,2025-12-31,0,25
+122,6,Team Volleybal Champions,12,1383,2025-11-09,1,15
+123,6,The Hardlopen Allstars,6,1383,2026-04-03,1,25
+124,6,Team CrossFit Warriors,19,1348,2026-02-16,1,15
+125,6,Team Mindful Wandelen United,18,1419,2025-11-04,1,15
+126,6,The Mindful Wandelen United,18,1362,2025-11-18,1,15
+127,6,Basketbal Allstars,13,1349,2026-01-29,0,15
+128,6,Mindful Wandelen Eagles,18,1346,2026-01-06,1,25
+129,7,The Pilates Riders,17,1554,2025-11-16,1,25
+130,7,Squad Badminton Allstars,5,1531,2026-01-22,1,15
+131,7,Wielrennen Eagles,8,1515,2026-03-08,1,25
+132,7,The Volleybal Lightning,12,1522,2025-12-31,1,20
+133,7,Squad Wandelen Thunder,7,1552,2026-04-07,0,35
+134,7,Squad Badminton Allstars,5,1518,2026-02-19,1,15
+135,7,Hockey Force,14,1554,2026-01-23,0,25
+136,7,Ultimate Frisbee Strikers,15,1560,2026-01-26,1,35
+137,8,Tafeltennis Wolves,4,1648,2026-04-07,1,35
+138,8,The Basketbal Force,13,1616,2025-12-05,1,25
+139,8,The CrossFit Allstars,19,1635,2026-01-11,0,25
+140,8,Bootcamp Wolves,20,1741,2025-11-26,0,35
+141,8,The Yoga Riders,16,1692,2026-03-18,0,35
+142,8,Team Pilates Wolves,17,1660,2026-01-30,1,30
+143,8,Squad Padel Force,1,1736,2026-02-10,0,25
+144,8,Squad Boksen Thunder,22,1566,2026-03-12,1,30
+145,8,The CrossFit Eagles,19,1694,2025-12-20,1,25
+146,8,Team Yoga Force,16,1628,2025-11-13,0,15
+147,8,Squad Volleybal United,12,1666,2025-11-18,0,35
+148,8,The CrossFit Warriors,19,1758,2025-11-18,1,15
+149,8,Tennis United,2,1681,2025-12-16,1,30
+150,8,Squad Hardlopen Strikers,6,1623,2026-01-16,1,35
+151,8,Team Wandelen Crew,7,1742,2025-12-25,0,20
+152,8,The Basketbal Force,13,1568,2025-12-18,1,20
+153,8,Squad Wandelen Allstars,7,1664,2026-01-26,1,25
+154,8,Zwemmen Warriors,10,1705,2025-12-08,1,30
+155,8,Wandelen United,7,1755,2026-01-28,1,15
+156,8,Squad Padel Force,1,1694,2026-04-05,0,30
+157,8,Squad Mindful Wandelen Force,18,1746,2026-01-21,1,30
+158,8,The Volleybal Champions,12,1755,2026-02-21,0,20
+159,8,Team Bootcamp Champions,20,1715,2026-03-27,1,20
+160,8,Tennis Force,2,1753,2026-04-10,1,30
+161,8,The Yoga Lightning,16,1647,2025-12-20,1,15
+162,8,Squad CrossFit Eagles,19,1680,2026-04-01,1,15
+163,8,Squad Hockey Allstars,14,1751,2026-04-08,1,25
+164,9,The Zwemmen Lightning,10,1913,2026-01-24,0,35
+165,9,Yoga Thunder,16,1814,2025-11-30,0,35
+166,9,Team Volleybal Lightning,12,1823,2026-01-28,1,15
+167,9,The Badminton Wolves,5,1931,2026-01-17,0,20
+168,9,Squad Tennis Allstars,2,1805,2025-12-28,1,20
+169,9,The Hardlopen Eagles,6,1875,2026-03-24,1,20
+170,9,Squad Voetbal Champions,11,1816,2025-11-30,1,30
+171,9,Squad Squash Thunder,3,1869,2026-03-16,1,25
+172,9,Team Mindful Wandelen Force,18,1846,2026-01-25,1,25
+173,9,The Wandelen Champions,7,1809,2026-02-17,1,35
+174,9,The CrossFit Strikers,19,1852,2026-01-27,1,30
+175,9,Padel Lightning,1,1934,2025-12-21,0,35
+176,9,The Mindful Wandelen United,18,1895,2025-11-04,1,15
+177,9,Team Zwemmen Champions,10,1817,2026-02-04,0,35
+178,9,Bootcamp Strikers,20,1888,2026-01-10,1,35
+179,9,Team Squash Wolves,3,1835,2026-02-07,1,20
+180,9,The Tennis Warriors,2,1789,2026-02-16,0,30
+181,9,Spinning Allstars,9,1783,2026-03-13,0,20
+182,10,Team Yoga Champions,16,2034,2025-12-02,1,30
+183,10,The CrossFit Force,19,1988,2026-01-05,0,15
+184,10,The Klimmen Force,23,2032,2026-03-20,1,25
+185,10,The Wielrennen Force,8,2021,2026-02-26,1,30
+186,10,Squad Wandelen Force,7,2051,2026-01-15,0,30
+187,10,Klimmen Crew,23,1983,2026-03-31,1,15
+188,10,Squad Wandelen Force,7,2017,2026-03-26,1,15
+189,10,Team Krachttraining Wolves,21,2019,2025-12-14,1,30
+190,10,Squad Volleybal Force,12,2044,2026-03-22,1,30
+191,10,The Bootcamp Lightning,20,2037,2025-12-19,1,15
+192,10,Squad Hardlopen Thunder,6,2014,2026-03-16,1,20

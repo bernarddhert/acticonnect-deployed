@@ -1,0 +1,24 @@
+sport_id,sport_naam,categorie,locatie_type,min_deelnemers,typische_duur_min,intensiteit_factor,gem_calorieen_per_uur
+1,Padel,Racket,Beide,4,60,1.0,450
+2,Tennis,Racket,Beide,2,60,1.0,480
+3,Squash,Racket,Binnen,2,45,1.2,600
+4,Tafeltennis,Racket,Binnen,2,45,0.6,250
+5,Badminton,Racket,Binnen,2,60,0.9,420
+6,Hardlopen,Cardio,Buiten,1,45,1.1,600
+7,Wandelen,Cardio,Buiten,1,60,0.5,220
+8,Wielrennen,Cardio,Buiten,1,90,1.0,500
+9,Spinning,Cardio,Binnen,1,45,1.2,580
+10,Zwemmen,Cardio,Binnen,1,45,1.0,480
+11,Voetbal,Team,Beide,10,90,1.0,550
+12,Volleybal,Team,Binnen,8,60,0.8,380
+13,Basketbal,Team,Beide,6,60,1.1,580
+14,Hockey,Team,Buiten,10,60,1.0,520
+15,Ultimate Frisbee,Team,Buiten,8,60,0.9,460
+16,Yoga,Mentaal,Binnen,1,60,0.4,200
+17,Pilates,Mentaal,Binnen,1,60,0.5,240
+18,Mindful Wandelen,Mentaal,Buiten,1,30,0.4,150
+19,CrossFit,Kracht,Binnen,1,60,1.4,700
+20,Bootcamp,Kracht,Beide,4,45,1.3,620
+21,Krachttraining,Kracht,Binnen,1,60,0.9,400
+22,Boksen,Kracht,Binnen,1,45,1.3,650
+23,Klimmen,Kracht,Binnen,2,90,1.0,500

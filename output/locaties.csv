@@ -1,0 +1,63 @@
+locatie_id,naam,stad,locatie_type,capaciteit,binnen,beoordeling,kosten_per_uur_eur
+1,Eindhoven Sportschool,Eindhoven,Sportschool,20,1,3.7,0
+2,Eindhoven Sportschool,Eindhoven,Sportschool,15,1,3.8,75
+3,Eindhoven Zwembad,Eindhoven,Zwembad,15,1,3.9,0
+4,Amsterdam Voetbalveld,Amsterdam,Voetbalveld,15,0,3.3,45
+5,Amsterdam Voetbalveld,Amsterdam,Voetbalveld,15,0,3.6,35
+6,Zwembad Huisman,Utrecht,Zwembad,50,1,3.3,0
+7,Zwembad de Jode Vastraedsd,Utrecht,Zwembad,40,1,3.3,90
+8,Rotterdam Padel Club,Rotterdam,Padel Club,10,1,3.9,0
+9,Voetbalveld Groenendaal,Rotterdam,Voetbalveld,40,0,4.3,45
+10,Rotterdam Voetbalveld,Rotterdam,Voetbalveld,200,0,4.8,25
+11,Tilburg Park,Tilburg,Park,80,0,3.7,15
+12,Padel Club Soos,Tilburg,Padel Club,50,1,4.5,0
+13,Yogastudio Fechant,Tilburg,Yogastudio,30,1,3.6,0
+14,Tilburg Zwembad,Tilburg,Zwembad,20,1,3.6,60
+15,Tilburg Voetbalveld,Tilburg,Voetbalveld,10,0,4.5,0
+16,Tennisclub Vegt,Groningen,Tennisclub,200,1,3.2,90
+17,Groningen Klimhal,Groningen,Klimhal,80,1,4.0,15
+18,Tennisclub Niermann,Groningen,Tennisclub,10,1,4.4,60
+19,Groningen Sportpark,Groningen,Sportpark,10,0,4.2,90
+20,Park van Geffen,Delft,Park,10,0,4.8,90
+21,Delft Sportpark,Delft,Sportpark,80,0,4.8,90
+22,Sportpark Brisee,Delft,Sportpark,10,0,3.6,90
+23,Zwembad Pison,Delft,Zwembad,15,1,4.4,90
+24,Sportpark van der Veen,Delft,Sportpark,15,0,3.8,45
+25,Voetbalveld Ketel,Zaandam,Voetbalveld,20,0,3.8,25
+26,Sportpark Schatteleijn,Zaandam,Sportpark,50,0,3.6,0
+27,Padel Club Blom,Zaandam,Padel Club,200,1,4.0,15
+28,Zaandam Padel Club,Zaandam,Padel Club,50,1,4.8,35
+29,Zwembad van Vermandois,Den Haag,Zwembad,200,1,3.3,90
+30,Den Haag Kantoor Sportschool,Den Haag,Kantoor Sportschool,15,1,4.0,25
+31,Park Neuzerling,Den Haag,Park,50,0,4.5,0
+32,Voetbalveld Momberg,Den Haag,Voetbalveld,40,0,3.5,0
+33,Den Haag Zwembad,Den Haag,Zwembad,40,1,4.0,60
+34,Nijmegen Sportschool,Nijmegen,Sportschool,40,1,4.5,45
+35,Padel Club Pieters van der Maes,Nijmegen,Padel Club,40,1,4.8,90
+36,Nijmegen Padel Club,Nijmegen,Padel Club,80,1,4.5,35
+37,Tennisclub Nihoe,Nijmegen,Tennisclub,15,1,4.6,75
+38,Breda Zwembad,Breda,Zwembad,100,1,4.6,15
+39,Breda Sportschool,Breda,Sportschool,200,1,4.6,75
+40,Kantoor Sportschool van Evelingen,Arnhem,Kantoor Sportschool,50,1,4.5,35
+41,Arnhem Padel Club,Arnhem,Padel Club,80,1,3.2,75
+42,Arnhem Zwembad,Arnhem,Zwembad,15,1,3.7,35
+43,Leiden Sportschool,Leiden,Sportschool,80,1,4.4,25
+44,Tennisclub Moet,Leiden,Tennisclub,20,1,3.8,45
+45,Voetbalveld Jerusalem,Leiden,Voetbalveld,30,0,3.4,60
+46,Leiden Padel Club,Leiden,Padel Club,30,1,4.1,0
+47,Tennisclub Barents,Maastricht,Tennisclub,10,1,4.2,45
+48,Maastricht Zwembad,Maastricht,Zwembad,50,1,4.5,75
+49,Tennisclub Spiker,Maastricht,Tennisclub,80,1,4.7,90
+50,Maastricht Sportschool,Maastricht,Sportschool,40,1,4.3,90
+51,Sportschool Phillipsen,Haarlem,Sportschool,100,1,3.3,60
+52,Park Bezemer,Haarlem,Park,10,0,4.4,15
+53,Kantoor Sportschool van Roijen,Haarlem,Kantoor Sportschool,200,1,4.8,25
+54,Voetbalveld van Enschot,'s-Hertogenbosch,Voetbalveld,100,0,3.6,15
+55,Voetbalveld van Baalen,'s-Hertogenbosch,Voetbalveld,100,0,4.8,60
+56,Yogastudio van der Zijl,'s-Hertogenbosch,Yogastudio,50,1,4.7,90
+57,Almere Kantoor Sportschool,Almere,Kantoor Sportschool,40,1,4.5,90
+58,Almere Yogastudio,Almere,Yogastudio,100,1,4.5,15
+59,Enschede Zwembad,Enschede,Zwembad,30,1,4.5,25
+60,Voetbalveld Loreal,Enschede,Voetbalveld,100,0,3.5,60
+61,Enschede Voetbalveld,Enschede,Voetbalveld,10,0,4.7,45
+62,Park van Amstel,Enschede,Park,80,0,4.7,90

@@ -1,0 +1,33 @@
+kantoor_id,organisatie_id,stad,adres,postcode,is_hoofdkantoor,heeft_sportschool,heeft_douche,capaciteit
+1,1,Eindhoven,Dylanpad 940,2816 JS,1,1,1,209
+2,1,Almere,Johannaboulevard 3,7131 RD,0,0,1,333
+3,1,Enschede,Rikpad 41,8832YR,0,0,1,221
+4,2,Amsterdam,Miloubaan 05,6413 NP,1,0,1,516
+5,2,Breda,Phileineweg 2,9238 QV,0,1,1,690
+6,2,Breda,Ravihof 87,3012YR,0,1,1,483
+7,2,Arnhem,Samiring 78,9801 WR,0,0,1,673
+8,3,Utrecht,Mehmetring 70,2828 OT,1,1,0,493
+9,3,Utrecht,Roandreef 80,6701 ZT,0,1,1,616
+10,3,Arnhem,Levistraat 1,3182 QE,0,1,1,323
+11,3,Zaandam,Aylinstraat 3,8465HC,0,0,0,737
+12,3,Zaandam,Kickboulevard 098,2930TO,0,0,1,532
+13,3,Arnhem,Colinbaan 183,3738 UK,0,1,1,643
+14,3,Den Haag,Loessingel 3,7165AD,0,0,1,336
+15,4,Rotterdam,Casring 513,3387BL,1,0,1,64
+16,5,Tilburg,Lorenzoboulevard 8,2080WP,1,1,0,326
+17,5,Enschede,Youssefsingel 60,5606YY,0,1,1,346
+18,5,Amsterdam,Svensteeg 723,9309 DV,0,1,1,230
+19,6,Groningen,Borisstraat 8,3081EM,1,1,1,391
+20,6,Breda,Sethboulevard 39,9916UQ,0,1,1,376
+21,6,Haarlem,Leonlaan 2,1751 DN,0,1,1,340
+22,7,Amsterdam,Bohof 42,5135 KC,1,0,0,68
+23,7,Leiden,Isabelsteeg 124,5182SM,0,0,0,54
+24,8,Delft,Joëlweg 487,5016 CA,1,0,0,370
+25,8,Rotterdam,Floorlaan 78,2801 SJ,0,1,1,324
+26,8,Maastricht,Elisesteeg 62,6450NR,0,0,1,302
+27,8,Haarlem,Quinnsteeg 9,7322BL,0,0,0,370
+28,9,Zaandam,Lynnweg 342,4607MD,1,0,1,753
+29,9,Enschede,Maudhof 03,5541 WP,0,0,1,474
+30,9,Rotterdam,Sterrebaan 4,2940MB,0,1,1,301
+31,9,Den Haag,Tiesstraat 16,1406HZ,0,0,1,559
+32,10,Den Haag,Thijsboulevard 595,7484UZ,1,0,1,70

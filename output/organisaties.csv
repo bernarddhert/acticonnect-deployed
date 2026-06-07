@@ -1,0 +1,11 @@
+organisatie_id,organisatie_naam,branche,grootte_categorie,totaal_medewerkers,hoofdkantoor_stad,land,opgericht_in,vitaliteitsbudget_per_medewerker_eur,contract_startdatum,accountmanager,hr_email
+1,Vossen Tech Solutions,Technologie,Groot,850,Eindhoven,Nederland,2008,500,2022-08-17,Ali Schellekens,hr@vossentechsolutions.nl
+2,De Boer & Partners,Financieel,Enterprise,3200,Amsterdam,Nederland,1987,750,2022-02-21,Finn Jansdr-Goyaerts van Waderle,hr@deboerenpartners.nl
+3,Mediq Healthcare Group,Gezondheidszorg,Enterprise,4100,Utrecht,Nederland,1976,600,2023-07-18,Melle van Brenen,hr@mediqhealthcaregroup.nl
+4,PolderData Analytics,Technologie,Middelgroot,220,Rotterdam,Nederland,2015,450,2023-05-17,Amin Gellemeyer,hr@polderdataanalytics.nl
+5,Janssen Logistics BV,Logistiek,Groot,1400,Tilburg,Nederland,2001,350,2023-04-03,Floris van de Elzas-Blonk,hr@janssenlogisticsbv.nl
+6,Greenfield Energy,Energie,Groot,980,Groningen,Nederland,2011,550,2022-10-13,Raf van der Spaendonc-van Bernicia,hr@greenfieldenergy.nl
+7,Tulip Marketing Group,Marketing,Middelgroot,180,Amsterdam,Nederland,2017,400,2022-07-29,Kian Schilt-Amalrada,hr@tulipmarketinggroup.nl
+8,Kraan Engineering,Engineering,Groot,1100,Delft,Nederland,1994,500,2025-01-21,Philip van Breugel,hr@kraanengineering.nl
+9,Bakker Retail Holding,Retail,Enterprise,5500,Zaandam,Nederland,1962,300,2022-06-28,Fenne Ketting,hr@bakkerretailholding.nl
+10,Nieuwland Consulting,Consultancy,Middelgroot,310,Den Haag,Nederland,2013,600,2025-04-24,Wouter Verwoert-Goyaerts van Waderle,hr@nieuwlandconsulting.nl

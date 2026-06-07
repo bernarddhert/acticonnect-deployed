@@ -1,0 +1,36 @@
+uitdaging_id,organisatie_id,naam,omschrijving,meting_type,doelwaarde,startdatum,einddatum,beloning_punten,status
+1,1,"New Year, New Me",Begin het jaar goed met 8 activiteiten,activiteiten,8.0,2026-03-28,2026-04-25,500,voltooid
+2,1,"New Year, New Me",Begin het jaar goed met 10 activiteiten,activiteiten,10.0,2026-02-03,2026-03-17,200,voltooid
+3,1,"New Year, New Me",Begin het jaar goed met 8 activiteiten,activiteiten,8.0,2026-04-10,2026-05-08,100,actief
+4,1,Activiteiten Boost Q1,Voltooi 8 activiteiten in deze periode,activiteiten,8.0,2025-12-04,2026-02-26,200,voltooid
+5,1,Reeksmeester Q2,6 weken op rij actief,reeks,6.0,2026-04-15,2026-06-10,300,actief
+6,2,Beweegchallenge Q1,500 actieve minuten totaal,minuten,500.0,2026-02-14,2026-03-14,200,voltooid
+7,2,Sport Variatie Q4,Probeer 4 verschillende sporten,diversiteit,4.0,2025-12-23,2026-02-17,500,voltooid
+8,2,Activiteiten Boost Q1,Voltooi 15 activiteiten in deze periode,activiteiten,15.0,2025-11-03,2025-12-01,500,voltooid
+9,2,Activiteiten Boost Q2,Voltooi 15 activiteiten in deze periode,activiteiten,15.0,2026-02-04,2026-03-04,100,voltooid
+10,3,"New Year, New Me",Begin het jaar goed met 8 activiteiten,activiteiten,8.0,2026-02-24,2026-04-07,100,voltooid
+11,3,Activiteiten Boost Q2,Voltooi 15 activiteiten in deze periode,activiteiten,15.0,2026-03-28,2026-04-25,500,voltooid
+12,4,Punten Race Q2,Verdien 2000 punten in deze periode,punten,2000.0,2026-04-16,2026-06-11,750,actief
+13,4,Punten Race Q4,Verdien 1500 punten in deze periode,punten,1500.0,2026-03-23,2026-05-18,300,actief
+14,4,Lente Challenge,Voltooi 8 buitenactiviteiten,activiteiten,8.0,2026-03-18,2026-04-29,100,voltooid
+15,5,"New Year, New Me",Begin het jaar goed met 15 activiteiten,activiteiten,15.0,2025-12-13,2026-01-10,500,voltooid
+16,5,Lente Challenge,Voltooi 15 buitenactiviteiten,activiteiten,15.0,2026-04-11,2026-05-23,500,actief
+17,5,Reeksmeester Q2,4 weken op rij actief,reeks,4.0,2025-11-21,2025-12-19,300,voltooid
+18,5,Reeksmeester Q2,6 weken op rij actief,reeks,6.0,2026-02-24,2026-04-21,500,voltooid
+19,5,Lente Challenge,Voltooi 15 buitenactiviteiten,activiteiten,15.0,2025-11-19,2026-01-14,200,voltooid
+20,5,Stappen Uitdaging Q4,Loop minstens 7000 stappen per dag,stappen,7000.0,2026-03-22,2026-05-17,300,actief
+21,6,Punten Race Q4,Verdien 1500 punten in deze periode,punten,1500.0,2025-12-12,2026-01-23,750,voltooid
+22,6,Punten Race Q1,Verdien 500 punten in deze periode,punten,500.0,2026-04-17,2026-06-12,100,actief
+23,6,Lente Challenge,Voltooi 5 buitenactiviteiten,activiteiten,5.0,2025-12-07,2026-03-01,200,voltooid
+24,7,Beweegchallenge Q2,1000 actieve minuten totaal,minuten,1000.0,2025-12-10,2026-01-07,750,voltooid
+25,7,"New Year, New Me",Begin het jaar goed met 10 activiteiten,activiteiten,10.0,2025-11-18,2026-01-13,500,voltooid
+26,7,Stappen Uitdaging Q1,Loop minstens 12000 stappen per dag,stappen,12000.0,2026-01-15,2026-03-12,100,voltooid
+27,8,Punten Race Q2,Verdien 1000 punten in deze periode,punten,1000.0,2026-04-14,2026-05-26,100,actief
+28,8,Stappen Uitdaging Q3,Loop minstens 8000 stappen per dag,stappen,8000.0,2025-11-13,2026-02-05,200,voltooid
+29,9,Reeksmeester Q2,10 weken op rij actief,reeks,10.0,2025-11-04,2025-12-02,750,voltooid
+30,9,Lente Challenge,Voltooi 15 buitenactiviteiten,activiteiten,15.0,2025-12-18,2026-02-12,300,voltooid
+31,10,Reeksmeester Q1,4 weken op rij actief,reeks,4.0,2025-11-11,2026-01-06,100,voltooid
+32,10,Stappen Uitdaging Q2,Loop minstens 12000 stappen per dag,stappen,12000.0,2026-01-21,2026-02-18,750,voltooid
+33,10,Punten Race Q4,Verdien 2000 punten in deze periode,punten,2000.0,2026-01-05,2026-02-16,500,voltooid
+34,10,Reeksmeester Q1,6 weken op rij actief,reeks,6.0,2026-01-25,2026-02-22,200,voltooid
+35,10,Punten Race Q2,Verdien 500 punten in deze periode,punten,500.0,2026-02-26,2026-03-26,200,voltooid

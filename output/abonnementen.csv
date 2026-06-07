@@ -1,0 +1,11 @@
+abonnement_id,organisatie_id,niveau,prijs_per_gebruiker_maand_eur,gelicenseerde_gebruikers,facturatie_cyclus,startdatum,verlenging_datum,auto_verlengen,korting_pct,totale_contract_waarde_eur
+1,1,Growth,4.05,248,jaarlijks,2022-08-17,2026-08-16,1,10,48211.2
+2,2,Enterprise,4.75,441,jaarlijks,2022-02-21,2027-02-20,1,5,125685.0
+3,3,Enterprise,4.75,403,jaarlijks,2023-07-18,2026-07-17,1,5,68913.0
+4,4,Starter,4.0,119,jaarlijks,2023-05-17,2026-05-16,1,0,17136.0
+5,5,Growth,4.05,296,jaarlijks,2023-04-03,2027-04-02,1,10,57542.4
+6,6,Growth,4.5,252,maandelijks,2022-10-13,2026-05-25,1,0,49896.0
+7,7,Starter,3.6,110,jaarlijks,2022-07-29,2026-07-28,1,10,19008.0
+8,8,Growth,4.5,224,maandelijks,2025-01-21,2026-05-16,1,0,16128.0
+9,9,Enterprise,4.75,224,jaarlijks,2022-06-28,2026-06-27,1,5,51072.0
+10,10,Starter,4.0,137,maandelijks,2025-04-24,2026-05-19,1,0,7124.0

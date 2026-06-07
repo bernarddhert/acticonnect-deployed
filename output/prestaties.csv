@@ -1,0 +1,21 @@
+prestatie_id,naam,omschrijving,niveau,punten,icoon_url
+1,Eerste Stappen,Je eerste activiteit voltooid,brons,50,https://acticonnect.nl/badges/eerste_stappen.png
+2,Sport Ontdekker,5 verschillende sporten geprobeerd,zilver,200,https://acticonnect.nl/badges/sport_ontdekker.png
+3,Reeksmeester,8 weken op rij minstens 1 activiteit,goud,500,https://acticonnect.nl/badges/reeksmeester.png
+4,Sociale Vlinder,Met 10 verschillende collega's gesport,zilver,250,https://acticonnect.nl/badges/sociale_vlinder.png
+5,Vroege Vogel,10 ochtendactiviteiten voltooid (vóór 9u),zilver,200,https://acticonnect.nl/badges/vroege_vogel.png
+6,Nachtuil,10 avondactiviteiten voltooid (na 18u),zilver,200,https://acticonnect.nl/badges/nachtuil.png
+7,Marathonloper,100 km hardlopen totaal,goud,600,https://acticonnect.nl/badges/marathonloper.png
+8,Teamspeler,Lid van 3 teams,zilver,250,https://acticonnect.nl/badges/teamspeler.png
+9,Aanvoerdersmateriaal,Aanvoerder van een team,goud,400,https://acticonnect.nl/badges/aanvoerdersmateriaal.png
+10,Feedback Held,20 beoordelingen gegeven,zilver,200,https://acticonnect.nl/badges/feedback_held.png
+11,Calorie Crusher,10.000 calorieën verbrand,goud,500,https://acticonnect.nl/badges/calorie_crusher.png
+12,Stappenkampioen,1 miljoen stappen totaal,goud,700,https://acticonnect.nl/badges/stappenkampioen.png
+13,Padel Pro,25 padelactiviteiten voltooid,goud,450,https://acticonnect.nl/badges/padel_pro.png
+14,Yoga Meester,20 yogasessies voltooid,zilver,300,https://acticonnect.nl/badges/yoga_meester.png
+15,Uitdaging Aanvaard,Eerste uitdaging voltooid,brons,100,https://acticonnect.nl/badges/uitdaging_aanvaard.png
+16,Uitdagingskampioen,5 uitdagingen voltooid,goud,800,https://acticonnect.nl/badges/uitdagingskampioen.png
+17,Consistent,4 weken op rij actief,brons,100,https://acticonnect.nl/badges/consistent.png
+18,Welkom Aan Boord,Profiel volledig ingevuld,brons,50,https://acticonnect.nl/badges/welkom_aan_boord.png
+19,Verbinder,10 collega's toegevoegd als connectie,zilver,200,https://acticonnect.nl/badges/verbinder.png
+20,Veteraan,1 jaar lid van ActiConnect,goud,500,https://acticonnect.nl/badges/veteraan.png
